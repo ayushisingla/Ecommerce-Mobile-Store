@@ -76,7 +76,7 @@ if (isset($_SESSION['email'])) {
                             <button type="submit" name="submit" class="btn btn-primary">Submit</button>
                         </div>  
                         <div class="col-sm-10">
-                                  Already have an account ?<a href="login.php"> Login</a>
+                                  Already have an account ?<a href="#" data-toggle="modal" data-target="#loginmodal"> Login</a>
                         </div>
 
                 </form>
