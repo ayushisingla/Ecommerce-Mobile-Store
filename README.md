@@ -1,2 +1,15 @@
 # Mobile-Store
 This web application is an e-commerce site of mobile. Platforms used- HTML, CSS, Bootstrap, SQL, PHP
+![p1](https://user-images.githubusercontent.com/62255672/86779184-e3e0f200-c078-11ea-9c71-e8502ee381b8.png)
+![p2](https://user-images.githubusercontent.com/62255672/86779189-e5aab580-c078-11ea-9f57-f7409d83eee1.png)
+![p3](https://user-images.githubusercontent.com/62255672/86779195-e7747900-c078-11ea-91e4-a3f791e73cf2.png)
+![p4](https://user-images.githubusercontent.com/62255672/86779200-e93e3c80-c078-11ea-8b8f-024279ca7004.png)
+![p5](https://user-images.githubusercontent.com/62255672/86779206-eb080000-c078-11ea-8f41-eed29e3b021a.png)
+![p6](https://user-images.githubusercontent.com/62255672/86779214-ee02f080-c078-11ea-8950-0db273e59035.png)
+![p7](https://user-images.githubusercontent.com/62255672/86779221-efccb400-c078-11ea-8c2a-54961e7299d4.png)
+![p8](https://user-images.githubusercontent.com/62255672/86779229-f1967780-c078-11ea-8566-a150f350f924.png)
+![p9](https://user-images.githubusercontent.com/62255672/86779235-f3603b00-c078-11ea-8c55-257a07ca04e3.png)
+![p10](https://user-images.githubusercontent.com/62255672/86779241-f4916800-c078-11ea-8e22-408480f272d8.png)
+![p11](https://user-images.githubusercontent.com/62255672/86779243-f5c29500-c078-11ea-85bc-63e68f5c0fce.png)
+![p12](https://user-images.githubusercontent.com/62255672/86779244-f65b2b80-c078-11ea-8aaf-845f71793a79.png)
+![p13](https://user-images.githubusercontent.com/62255672/86779247-f78c5880-c078-11ea-8e35-be63622e6e3a.png)
